@@ -245,13 +245,23 @@ P.~Waddell, {UrbanSim:} modeling urban development for land use,
 \newblock \href {http://dx.doi.org/10.1080/01944360208976274}
   {\path{doi:10.1080/01944360208976274}}.
 
+\bibitem{u.s._bureau_of_the_census_united_2010}
+{U.S. Bureau of the Census}, {United States Census 2010}, Tech. rep., {U.S.}
+  Census Bureau, Washington {D.C.} (2010).
+
+\bibitem{metropolitan_technical_2013}
+{Metropolitan}, Technical {Summary} {Report}: {Predicted} {Traveler}
+  {Responses}, Tech. rep., Metropolitan Transportation Commission, Oakland, CA
+  (Jul. 2013).
+
+\bibitem{kunzmann_2010-2012_2013}
+M.~Kunzmann, 2010-2012 {California} {Household} {Travel} {Survey} {Final}
+  {Report}, Tech. rep., California Department of Transportation, Austin, Texas
+  (Jun. 2013).
+
 \bibitem{davidson_ct-ramp_2010}
 W.~Davidson, P.~Vovsha, J.~Freedman, R.~Donnelly, {CT-RAMP} family of
   activity-based models, in: Proceedings of the 33rd Australasian Transport
   Research Forum ({ATRF)}, Canberra, Australia, 2010, p.~15.
-
-\bibitem{u.s._bureau_of_the_census_united_2010}
-{U.S. Bureau of the Census}, {United States Census 2010}, Tech. rep., {U.S.}
-  Census Bureau, Washington {D.C.} (2010).
 
 \end{thebibliography}
